@@ -1,0 +1,32 @@
+{
+    "articleIdentifier" : "informatique",
+    "author" : "Elliot Gaulin",
+    "views" : 0,
+    "isVerified" : true, 
+    "filename" : "info.md",
+    "defaultLanguage" : "fr",
+    "created" : "2019-01-23T15:00:00.000Z",
+    "updated" : "2018-01-01T00:00:00.000Z",
+    "name" : {
+        "fr" : "Informatique",
+        "en" : "Computer Science"
+    },
+    "description" : {
+        "fr" : "Cours d'informatique",
+        "en" : "Computer Science courses"
+    },
+    "tags" : [
+        "computer science",
+        "science"
+    ],
+    "sources" : [
+        {
+            "name" : "Wikipedia",
+            "url" : "https://wikipedia.org"
+        },
+        {
+            "name" : "Cégep Victo",
+            "url" : "https://www.cegepvicto.ca/"
+        }
+    ]
+}
